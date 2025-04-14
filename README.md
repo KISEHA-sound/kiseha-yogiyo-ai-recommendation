@@ -7,8 +7,9 @@
 
 ---
 
-
+## 기획서 
 [📄 기획서 보기](PROJECT_PROPOSAL.md)
+
 
 
 
