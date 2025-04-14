@@ -1,9 +1,9 @@
 # 🍱 요기요 AI 음식 추천 시스템
 
 **GPT + FAISS + 요기요 리뷰 데이터 기반의 실전형 음식점 추천 시스템**입니다.  
-사용자의 집단적인 질문에 따라, GPT가 **"가장 적합한 음식점 1가지"만 점심적으로 추천**합니다.
+사용자의 질문에 따라, GPT가 **"가장 적합한 음식점 1가지"만 정적으로 추천**합니다.
 
-> 🤖 LangChain 기반 RAG 구조 + FastAPI 백엔드 + React 프론트엔드까지 구현된 푸른스택 AI 추천 서비스
+> 🤖 LangChain 기반 RAG 구조 + FastAPI 백엔드 + React 프론트엔드까지 구현된 풀택 AI 추천 서비스
 
 ---
 
@@ -92,7 +92,7 @@ npm install
 npm run dev
 ```
 
-→ 브라우저에서 `http://localhost:5173` 접속
+→ 브라우저에서 `http://localhost:3000` 접속
 
 ---
 
@@ -135,7 +135,7 @@ kiseha-yogiyo-ai-recommendation/
 | 백엔드 | FastAPI |
 | 프론트 | React + Vite |
 | 클롤링 | Selenium |
-| 기탅 | dotenv, JSON 데이터, npm, uvicorn |
+| 기타타 | dotenv, JSON 데이터, npm, uvicorn |
 
 ---
 
@@ -162,19 +162,6 @@ OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxx
 
 **KISEHA**  
 > GPT + AI 응용 서비스 실전 개발자  
-> 클롤링부터 벡터화, RAG 추천 시스템까지 직접 구현한 푸른 시커
+> 크롤링부터 벡터화, RAG 추천 시스템까지 직접 구현한 풀사이클 메이커
 
 ---
-
-## 🔗 라이선스
-
-MIT License  
-자유로운 fork 및 응용 가능. 다른 건의 보고 조사해주세요.
-
----
-
-## 📌 기호 자료
-
-- `요기요음식추천AI.mp4` → 실제 사용 시연
-- `초기화면.png`, `결과1.png`, `FAISSDB검증.png` 등 → 문서/포트폴리오 활용 가능
-
