@@ -27,7 +27,7 @@
 
 | 기술 영역 | 주요 내용 |
 |-----------|-----------|
-| LLM       | GPT-3.5-turbo via LangChain (Prompt + RetrievalQA) |
+| LLM       | GPT-3.5-turbo, LangChain (Prompt + RetrievalQA) |
 | 벡터 DB   | FAISS (OpenAI Embeddings 기반 리뷰 검색) |
 | 데이터 수집 | Selenium을 활용한 요기요 클린리뷰 크롤링 |
 | 백엔드    | FastAPI 기반 API 구성 |
