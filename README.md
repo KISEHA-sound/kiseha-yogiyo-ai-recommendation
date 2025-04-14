@@ -7,9 +7,15 @@
 
 ---
 
+
+[📄 기획서 보기](PROJECT_PROPOSAL.md)
+
+
+
 ## 💻 시연 영상
 
 ▶️ [요기요 추천 시스템 시연 영상 보기 (YouTube)](https://youtube.com/shorts/ePoe-GW0KoI?feature=share)
+
 
 ---
 
