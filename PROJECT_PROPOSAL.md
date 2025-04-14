@@ -1,5 +1,10 @@
 # 🍱 요기요 AI 음식 추천 시스템 - 프로젝트 기획서 (기업 제안형)
 
+
+## 💻 시연 영상
+
+▶️ [요기요 추천 시스템 시연 영상 보기 (YouTube)](https://youtube.com/shorts/ePoe-GW0KoI?feature=share)
+
 ## 📌 1. 프로젝트 개요
 
 **GPT + FAISS + 요기요 리뷰 데이터 기반의 음식점 AI 추천 시스템**입니다.  
