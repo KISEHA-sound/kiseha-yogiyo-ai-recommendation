@@ -11,7 +11,7 @@
 [📄 기획서 보기](PROJECT_PROPOSAL.md)
 
 
-
+---
 
 ## 💻 시연 영상
 
