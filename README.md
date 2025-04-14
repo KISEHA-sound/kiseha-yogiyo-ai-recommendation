@@ -141,8 +141,8 @@ kiseha-yogiyo-ai-recommendation/
 | 벡터 DB | FAISS + OpenAIEmbeddings |
 | 백엔드 | FastAPI |
 | 프론트 | React + Vite |
-| 클롤링 | Selenium |
-| 기타타 | dotenv, JSON 데이터, npm, uvicorn |
+| 크롤링 | Selenium |
+| 기타 | dotenv, JSON 데이터, npm, uvicorn |
 
 ---
 
