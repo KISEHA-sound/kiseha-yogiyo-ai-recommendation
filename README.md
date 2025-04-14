@@ -3,7 +3,7 @@
 **GPT + FAISS + 요기요 리뷰 데이터 기반의 실전형 음식점 추천 시스템**입니다.  
 사용자의 질문에 따라, GPT가 **"가장 적합한 음식점 1가지"만 정적으로 추천**합니다.
 
-> 🤖 LangChain 기반 RAG 구조 + FastAPI 백엔드 + React 프론트엔드까지 구현된 풀택 AI 추천 서비스
+> 🤖 LangChain 기반 RAG 구조 + FastAPI 백엔드 + React 프론트엔드까지 구현된 풀스택 AI 추천 서비스
 
 ---
 
@@ -81,7 +81,7 @@ python app/make_vectorstore.py
 ### ✅ 백엔드 (FastAPI)
 
 ```bash
-uvicorn app.main:app --reload --reload-dir app
+uvicorn app.main:app --reload
 ```
 
 ### ✅ 프론트엔드 (React)
@@ -89,7 +89,7 @@ uvicorn app.main:app --reload --reload-dir app
 ```bash
 cd frontend
 npm install
-npm run dev
+npm start
 ```
 
 → 브라우저에서 `http://localhost:3000` 접속
